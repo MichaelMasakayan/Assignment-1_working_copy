@@ -11,3 +11,5 @@ e. Assignment or Excercise Number: Assignment 1 - Big Multiplication Assignment
 a. main.cpp
 b. readme.md
 
+3. A LIST OF ALL REFERENCES USED TO COMPLETE THE ASSIGNMENT, INCLUDING PEERS (IF APPLICABLE)
+a. Worked with Jessie Pao 
